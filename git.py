@@ -54,8 +54,6 @@ def fetchdata(query):
 
 
 
-
-
 if __name__ == "__main__":
     query = "select * from dbo.student"
     data = fetchdata(query)

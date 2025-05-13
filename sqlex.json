@@ -1,0 +1,10 @@
+{
+  "sql": {
+
+    "Server": "SHEKAR-4233",
+    "Username": "sa",
+    "Database": "dbtest",
+    "Password": "sam123",
+    "Driver": "ODBC Driver 17 for SQL Server"
+  }
+}
